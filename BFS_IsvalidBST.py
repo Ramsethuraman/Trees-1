@@ -4,6 +4,11 @@ Created on Wed Jan 29 15:07:03 2020
 
 @author: WELCOME
 """
+"""
+Working on Leetcode
+Time complexity= O(N)
+Spece Complexity = O(N)
+"""
 
 from collections import deque
 class binaryTree:
